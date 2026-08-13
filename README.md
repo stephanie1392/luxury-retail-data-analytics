@@ -77,7 +77,7 @@ ORDER BY stock_left DESC;
 
 * ---
 
-## 5. Phase 3: Large-Scale Retail Production Database Audit (Full 10-Question Script)
+## 5. Project 2: E-commerce Sales and Order Analysis (Full 10-Question Script)
 **Author:** Stephanie Katara  
 **Database Volume:** 99,441 Real Transactional Records  
 **Environment:** Google BigQuery (GoogleSQL)  
