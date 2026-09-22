@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Project Overview & Business Scenario
+## 1. Project 1: Overview & Business Scenario
 This project simulates an end-to-end data pipeline for an international luxury fashion house facing two critical operational challenges: 
 1. **Targeted CRM Marketing:** Identifying high-value VIP customer segments across global markets.
 2. **Supply Chain Efficiency:** Isolating stagnant, slow-moving warehouse inventory (dead stock) that ties up operational capital.
